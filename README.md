@@ -4,4 +4,4 @@
 [piper github repository](https://github.com/rhasspy/piper/tree/master)
 
 ## All Free TTS
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neuralfalcon/Voice_Clone/blob/main/All_Free_TTS.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neuralfalcon/piper-tts/blob/main/All_Free_TTS.ipynb)
